@@ -44,7 +44,7 @@ Si tienes Docker instalado, no necesitas configurar nada más.
 
 1.  Clona el repositorio:
     ```bash
-    git clone [https://github.com/TU_USUARIO/HealthTech.git](https://github.com/TU_USUARIO/HealthTech.git)
+    git clone [https://github.com/Yishaq02/HealthTech.git](https://github.com/Yishaq02/HealthTech.git)
     cd HealthTech
     ```
 2.  Ejecuta el entorno completo:
