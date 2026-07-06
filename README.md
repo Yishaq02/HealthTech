@@ -87,7 +87,7 @@ Una vez levantada la aplicación, accede a la documentación interactiva:
 
 👉 **[http://localhost:8080/swagger-ui.html](http://localhost:8080/swagger-ui.html)**
 
-*(Aquí puedes pegar tu captura de pantalla de Swagger)*
+
 ![Swagger UI Screenshot](./assets/swagger-screenshot.png)
 
 ---
